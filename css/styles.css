@@ -142,6 +142,11 @@ a:hover {
 	background-color: #f7f9fb;
 }
 
+.img-fluid{
+	width: auto;
+	height: auto;
+}
+
 .section-divider {
 	display: block;
 	height: 1px;
